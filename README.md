@@ -82,6 +82,10 @@ export MLFLOW_TRACKING_PASSWORD=214e4716b8afa5077b873931fa34c98bd3b794c7
 
 > ## Use set instead of export for windows.
 
+### Fetch MLflow tracking URI details on Dagshub
+![alt text](https://github.com/Aaryaman09/wine-quality-mlflow-deploy/blob/main/images/mlflow_tracking_uri_info_on_DAGSHUB.JPG?raw=true)
+
+
 ## About MLflow 
 MLflow
 
